@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed; /* Important for even spacing */
+}
+
+th {
+  width: 33.33%; /* 100% / 3 columns */
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
