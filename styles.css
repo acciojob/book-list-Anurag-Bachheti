@@ -7,6 +7,6 @@
 th {
   width: 33.33%; /* 100% / 3 columns */
   text-align: center;
-  padding: 10px;
-  border: 1px solid #ccc;
+  padding: 5px;
+  border: 1px solid black;
 }
